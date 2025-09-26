@@ -1,5 +1,7 @@
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
-  color: #121212;
+  background-color: #121212;
+  color: #ffffff;
+  padding: 20px;
 }
