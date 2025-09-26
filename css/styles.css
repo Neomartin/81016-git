@@ -34,3 +34,10 @@ nav ul {
     }
   }
 }
+
+footer {
+  padding: 2rem;
+  display: grid;
+  items-align: center;
+  background-color: crimson;
+}
