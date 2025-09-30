@@ -55,6 +55,9 @@ footer {
     padding: 1rem 0 0 0;
     img {
         width: 300px;
+        border-radius: 50%;
+        height: 300px;
+        object-fit: cover;
       }
   }
   
