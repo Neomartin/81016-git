@@ -12,7 +12,7 @@ body {
 
 h2 {
   background-color: #000;
-  color: crimson;
+  color: yellowgreen;
   padding: 10px;
   text-align: center;
 }
@@ -33,7 +33,7 @@ nav ul {
     transition: color 0.3s;
 
     &:hover {
-      color: crimson;
+      color: yellowgreen;
     }
   }
 }
@@ -42,5 +42,5 @@ footer {
   padding: 2rem;
   display: grid;
   items-align: center;
-  background-color: crimson;
+  background-color: yellowgreen;
 }
