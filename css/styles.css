@@ -44,3 +44,18 @@ footer {
   items-align: center;
   background-color: green;
 }
+
+
+.about-container {
+  display: flex;
+  gap: 1rem;
+
+  div:nth-child(1) {
+    flex-basis: 300px;
+    padding: 1rem 0 0 0;
+    img {
+        width: 300px;
+      }
+  }
+  
+}
